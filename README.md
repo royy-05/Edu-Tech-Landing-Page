@@ -4,7 +4,7 @@ This is a landing page built as part of the Web Development Internship assignmen
 🎯 **Confidence Building for Grades 3–5**
 
 ## 🚀 Live Preview
-[Click here to view the hosted page](https://yourusername.github.io/scoreazy-landing-page/)  
+[[Click here to view the hosted page](https://yourusername.github.io/scoreazy-landing-page/)  ](https://edu-tech-landing-page-sigma.vercel.app/)
 *(Replace with your actual GitHub Pages or Netlify link)*
 
 ---
